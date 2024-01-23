@@ -96,4 +96,8 @@ RB tree가 **2.4** 속성을 만족하고, 두 자녀가 같은 색을 가질 �
 
 출처 : https://dev-game-standalone.tistory.com/92, https://youtu.be/2MdsebfJOyM?si=PgO6FSy5IAHDNpd5
 
+
 지금 추가한 내용
+
+ 출처 : https://dev-game-standalone.tistory.com/92, https://youtu.be/2MdsebfJOyM?si=PgO6FSy5IAHDNpd5 
+
